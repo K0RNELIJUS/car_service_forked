@@ -44,6 +44,7 @@ const ServicesSection = () => {
               key={input.id}
               placeholder={input.placeholder}
               type={input.type}
+              primary
             />
           ))}
         </form>

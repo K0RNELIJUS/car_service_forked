@@ -22,3 +22,26 @@ export const INPUTS = [
     placeholder: `${TEXTS.homePage.servicesSection.form.paceholder}`,
   },
 ];
+
+export const CONTACTINPUTS = [
+  {
+    id: uid(),
+    type: 'text',
+    placeholder: `${TEXTS.contactPage.placeholders[0]}`,
+  },
+  {
+    id: uid(),
+    type: 'text',
+    placeholder: `${TEXTS.contactPage.placeholders[1]}`,
+  },
+  {
+    id: uid(),
+    type: 'text',
+    placeholder: `${TEXTS.contactPage.placeholders[2]}`,
+  },
+  {
+    id: uid(),
+    type: 'text',
+    placeholder: `${TEXTS.contactPage.placeholders[3]}`,
+  },
+];
