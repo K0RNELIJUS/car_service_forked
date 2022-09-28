@@ -1,6 +1,6 @@
 import HeroSection from './components/HeroSection';
 import ServicesSection from './components/ServicesSection/ServicesSection';
-import ProcessSection from './components/ProcessSection/ProcessSection';
+import ProcessSection from './components/processSection/ProcessSection';
 import CardsSection from './components/CardsSection/CardsSection';
 import CallToAction from '../../components/organisms/CallToAction';
 import ExperienceSection from './components/ExperienceSection/ExperienceSection';
