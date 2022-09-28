@@ -1,4 +1,3 @@
-import React from 'react';
 import { MinusIcon, PlusIcon } from '../../../../../assets/icons';
 import { useState } from 'react';
 

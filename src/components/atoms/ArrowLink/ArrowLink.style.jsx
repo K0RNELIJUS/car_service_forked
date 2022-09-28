@@ -5,6 +5,10 @@ export const StyledArrowLink = styled.div`
   align-items: center;
   gap: 21px;
 
+  &:hover {
+    opacity: 0.9;
+  }
+
   & a {
     display: flex;
     align-items: center;

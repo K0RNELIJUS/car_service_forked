@@ -112,6 +112,39 @@ const TEXTS = {
         city: 'New york',
         text: 'I have got my car repaired at Finsweet many times before, they are good at what they do. Not only did they repair my car in a short comprehensive look on all the working',
       },
+
+      card3: {
+        name: 'Ben Robinson',
+        city: 'Los Angeles',
+        text: 'I have got my car repaired at Finsweet many times before, they are good at what they do. Not only did they repair my car in a short comprehensive look on all the working',
+      },
+
+      card4: {
+        name: 'Tom Anders',
+        city: 'Chicago',
+        text: 'I have got my car repaired at Finsweet many times before, they are good at what they do. Not only did they repair my car in a short comprehensive look on all the working',
+      },
+
+      card5: {
+        name: 'Joshua West',
+        city: 'San Diego',
+        text: 'I have got my car repaired at Finsweet many times before, they are good at what they do. Not only did they repair my car in a short comprehensive look on all the working',
+      },
+      card6: {
+        name: 'Ryan Hunt',
+        city: 'Boston',
+        text: 'I have got my car repaired at Finsweet many times before, they are good at what they do. Not only did they repair my car in a short comprehensive look on all the working',
+      },
+      card7: {
+        name: 'Trent Guerra',
+        city: 'Huston',
+        text: 'I have got my car repaired at Finsweet many times before, they are good at what they do. Not only did they repair my car in a short comprehensive look on all the working',
+      },
+      card8: {
+        name: 'Arthur Doyle',
+        city: 'Detroit',
+        text: 'I have got my car repaired at Finsweet many times before, they are good at what they do. Not only did they repair my car in a short comprehensive look on all the working',
+      },
     },
     faqSection: {
       heading: 'Frequently Asked Questions',

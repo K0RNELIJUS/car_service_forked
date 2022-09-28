@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 
-export const StyledSliderBtn = styled.button`
+export const StyledBtnCarousel = styled.button`
   display: flex;
   align-items: center;
   justify-content: center;
@@ -9,7 +9,7 @@ export const StyledSliderBtn = styled.button`
   border: none;
   border-radius: 50%;
   background: ${({ theme }) => theme.color.white};
-  transition: all 0.2s;
+  transition: all 0.2s ease-in-out;
   cursor: pointer;
 
   & i {
@@ -22,5 +22,9 @@ export const StyledSliderBtn = styled.button`
     scale: calc(1.335);
 
     color: ${({ theme }) => theme.color.white};
+
+    &:active {
+      scale: 1;
+    }
   }
 `;
