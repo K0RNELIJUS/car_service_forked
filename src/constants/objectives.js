@@ -21,7 +21,7 @@ const OBJECTIVES = [
   {
     id: uid(),
     img: `${engineImg}`,
-    title: `${TEXT.aboutUsPage.objectivesSection.card1.title3}`,
+    title: `${TEXT.aboutUsPage.objectivesSection.card1.title}`,
     desc: `${TEXT.aboutUsPage.objectivesSection.card3.description}`,
     overlay: `#7443CA`,
   },
