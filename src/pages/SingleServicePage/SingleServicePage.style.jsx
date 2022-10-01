@@ -26,7 +26,7 @@ export const StyledSection = styled.section`
   flex-direction: column;
   max-width: 1300px;
   margin: 0 auto;
-  padding: 0px 20px 64px 0;
+  padding: 0px 20px 64px 20px;
   @media screen and (min-width: ${BREAKPOINTS.md}) {
     padding: 0px 40px 64px 40px;
   }
